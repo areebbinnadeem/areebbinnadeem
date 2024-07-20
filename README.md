@@ -8,7 +8,7 @@ Exploring the realms of algorithms and data-driven insights | Let's code the fut
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [M.AreebBinNadeem@gmail.com](mailto:M.AreebBinNadeem@gmail.com)
-* 🧠  I'm learning Prolog, JavaScript, Angular
+* 🧠  I'm learning Cloud Computing, LLM, Containerization
 * 🤝  I'm open to collaborating on Projects
 
 <a href="https://www.github.com/areebbinnadeem" target="_blank" rel="noreferrer"><img
